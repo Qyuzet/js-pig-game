@@ -1,6 +1,6 @@
 # Pig Game
 
-This repository contains a simple dice game called "Pig Game" built with HTML, CSS, and JavaScript. The objective of the game is to be the first player to reach 100 points.
+This repository contains a simple dice game called "Pig Game" built with HTML, CSS, and JavaScript. The objective of the game is to be the first player to reach 100 points. [TRY NOW!](https://qyuzet.github.io/js-pig-game)
 
 ## Features
 
